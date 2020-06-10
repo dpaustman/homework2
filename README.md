@@ -5,4 +5,4 @@ https://blog.csdn.net/gyu357nwh91/article/details/80137433
 
 https://www.cnblogs.com/agilestyle/p/12145936.html
 https://blog.csdn.net/qq_43608549/article/details/102583171
-kafka  https://www.cnblogs.com/kaituorensheng/p/12349273.html
+kafka  https://www.cnblogs.com/kaituorensheng/p/12349273.html https://juejin.im/post/5c9afd35e51d455154343153
