@@ -9,3 +9,4 @@ kafka  https://www.cnblogs.com/kaituorensheng/p/12349273.html https://juejin.im/
 
 zk https://www.cnblogs.com/cc11001100/p/10230608.html
 https://www.cnblogs.com/feifeicui/p/11017525.html
+https://forum.huawei.com/enterprise/zh/thread-451835.html
