@@ -13,3 +13,4 @@ https://forum.huawei.com/enterprise/zh/thread-451835.html
 https://blog.csdn.net/napoay/article/details/68626188
 https://blog.csdn.net/sinat_33741547/article/details/54428025 mapreduce
 https://blog.csdn.net/Bin594505536/article/details/79115506 mysql主备同步
+https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.30-winx64.zip
