@@ -16,3 +16,5 @@ https://blog.csdn.net/Bin594505536/article/details/79115506 mysql主备同步
 https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.30-winx64.zip
 https://nbviewer.jupyter.org/github/vaexio/vaex-examples/blob/master/medium-nyc-taxi-data-eda/vaex-taxi-article.ipynb 纽约出租车
 https://blog.51cto.com/11555417/2329307 zabbix监控vsphere
+https://blog.51cto.com/virtualbox/1132306 vcenter监控告警
+
