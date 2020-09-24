@@ -18,4 +18,5 @@ https://nbviewer.jupyter.org/github/vaexio/vaex-examples/blob/master/medium-nyc-
 https://blog.51cto.com/11555417/2329307 zabbix监控vsphere
 https://blog.51cto.com/virtualbox/1132306 vcenter监控告警
 https://www.codercto.com/a/79708.html
+https://www.pythonf.cn/read/114164python动态图
 
