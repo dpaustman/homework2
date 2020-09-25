@@ -19,4 +19,5 @@ https://blog.51cto.com/11555417/2329307 zabbix监控vsphere
 https://blog.51cto.com/virtualbox/1132306 vcenter监控告警
 https://www.codercto.com/a/79708.html
 https://www.pythonf.cn/read/114164python动态图
+链接：https://pan.baidu.com/s/1OhwznHB7F6R_rU7n7jEcFQ 密码：tshw
 
